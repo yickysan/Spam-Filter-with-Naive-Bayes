@@ -7,3 +7,5 @@ To build this spam filter we will be working with pandas which is a python libra
 
 You can download both libraries with a simple pip command.
 i.e `pip install pandas` and `pip install gradio`
+
+You can try out the spam filter <a href='https://huggingface.co/spaces/yickysan/Naive_Bayes_Spam_Filter'>here</a>
