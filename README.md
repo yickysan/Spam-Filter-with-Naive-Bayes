@@ -6,4 +6,4 @@ The dataset used here was put together by Tiago A. Almeida and José María Góm
 To build this spam filter we will be working with pandas which is a python library for data analysis and we we will also be using the gradio library to build a simple web interface to launch and test the algorithm.
 
 You can download both libraries with a simple pip command.
-i.e pip install pandas and pip install gradio
+i.e `pip install pandas` and `pip install gradio`
